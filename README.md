@@ -1,9 +1,12 @@
 # IAS101A
-Projects
 
-What features are already working
+## Projects
+
+### What features are already working
 - Nothing
-What still needs to be done
+
+### What still needs to be done
 - Everything
-Who did what
-- Everyone has installed laravel and is figuring out how to use it
+
+### Who did what
+- Everyone has installed Laravel and is figuring out how to use it
